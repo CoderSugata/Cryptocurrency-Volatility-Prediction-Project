@@ -50,3 +50,7 @@ src/model_training.py          → Train RandomForestRegressor, Evaluate, Save M
       ↓
 models/scaler.pkl              → Scaler file saved
 app/streamlit_app.py           → Deployment interface (optional)
+
+```
+
+Project Created By - Sugata Mondal
